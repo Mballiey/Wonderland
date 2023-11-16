@@ -1,5 +1,4 @@
 <DOCTYPE html>
-My First Repository "I'm Denise"
 <h1>My First Website</h1>
 <h2>my coding challenge</h2>
 <p>"First coding"</p>
