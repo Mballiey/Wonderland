@@ -1,7 +1,5 @@
 <DOCTYPE html>
-<html>My First Repository</html>
-  <body>"I'm Denise"</body>
-<h1>Learn Coding</h1>
-<p>New website</p>
-<h2>First website</h2>
-</html>
+My First Repository "I'm Denise"
+<h1>My First Website</h1>
+<h2>my coding challenge</h2>
+<p>"First coding"</p>
