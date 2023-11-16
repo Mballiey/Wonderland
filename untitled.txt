@@ -3,5 +3,4 @@
   <body>"I'm Denise"</body>
     <h1>My First Website</h1>
     <h2>My first coding</h2>
-<p>"first coding"</p>
 </html>
